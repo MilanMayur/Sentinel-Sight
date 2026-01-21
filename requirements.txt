@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+ultralytics
+streamlit
+sqlalchemy
+pydantic
+python-multipart
+shapely
